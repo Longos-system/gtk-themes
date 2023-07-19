@@ -1,0 +1,13 @@
+Source: long-gtk-themes
+Section: gnome
+Priority: optional
+Maintainer: LongOS <389574063@qq.com>
+Build-Depends:
+Standards-Version: 3.9.6
+Homepage: https://longos.com
+Vcs-Git: https://github.com/Longos-system
+
+Package: long-gtk-themes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: LongOS GTK Themes
